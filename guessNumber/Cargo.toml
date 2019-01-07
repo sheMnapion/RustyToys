@@ -1,0 +1,9 @@
+[package]
+
+name = "guess_number"
+version = "0.0.1"
+authors = ["lacqingling@sina.cn"]
+
+[dependencies]
+
+rand = "0.3.22"
